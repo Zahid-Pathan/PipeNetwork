@@ -1,0 +1,10 @@
+^Z:\C++ LERNEN\PIPENETWORK\PIPENETWORK\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SZ:/C++ Lernen/PipeNetwork/PipeNetwork" "-BZ:/C++ Lernen/PipeNetwork/build" --check-stamp-file "Z:/C++ Lernen/PipeNetwork/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

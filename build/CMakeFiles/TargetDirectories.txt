@@ -1,0 +1,5 @@
+Z:/C++ Lernen/PipeNetwork/build/CMakeFiles/PipeNetwork.dir
+Z:/C++ Lernen/PipeNetwork/build/CMakeFiles/main.dir
+Z:/C++ Lernen/PipeNetwork/build/CMakeFiles/PipeNetwork_testrunner.dir
+Z:/C++ Lernen/PipeNetwork/build/CMakeFiles/ALL_BUILD.dir
+Z:/C++ Lernen/PipeNetwork/build/CMakeFiles/ZERO_CHECK.dir

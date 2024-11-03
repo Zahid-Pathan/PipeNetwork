@@ -1,0 +1,16 @@
+﻿  PipeNetwork.cpp
+Z:\C++ Lernen\PipeNetwork\PipeNetwork\library\src\PipeNetwork.cpp(22,27): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+Z:\C++ Lernen\PipeNetwork\PipeNetwork\library\src\PipeNetwork.cpp(36,27): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+Z:\C++ Lernen\PipeNetwork\PipeNetwork\library\src\PipeNetwork.cpp(46,53): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+Z:\C++ Lernen\PipeNetwork\PipeNetwork\library\src\PipeNetwork.cpp(46,73): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  Auto build dll exports
+     Creating library Z:/C++ Lernen/PipeNetwork/build/Debug/PipeNetwork.lib and object Z:/C++ Lernen/PipeNetwork/build/Debug/PipeNetwork.exp
+  PipeNetwork.vcxproj -> Z:\C++ Lernen\PipeNetwork\build\Debug\PipeNetwork.dll

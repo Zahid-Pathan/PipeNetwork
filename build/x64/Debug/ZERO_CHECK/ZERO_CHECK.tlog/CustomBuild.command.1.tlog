@@ -1,0 +1,10 @@
+^Z:\C++ LERNEN\PIPENETWORK\BUILD\CMAKEFILES\16D77E6D6399FAC54440D48E9722DECF\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SZ:/C++ Lernen/PipeNetwork/PipeNetwork" "-BZ:/C++ Lernen/PipeNetwork/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "Z:/C++ Lernen/PipeNetwork/build/PipeNetwork.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Z:\C++ Lernen\PipeNetwork\PipeNetwork\library\src\Node.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\C++ Lernen\PipeNetwork\PipeNetwork\library\src\PipeNetwork.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\C++ Lernen\PipeNetwork\PipeNetwork\library\src\Tube.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\C++ Lernen\PipeNetwork\PipeNetwork\library\src\linalg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Z:\C++ Lernen\PipeNetwork\PipeNetwork\library\inc\Node.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Z:\C++ Lernen\PipeNetwork\PipeNetwork\library\inc\PipeNetwork.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Z:\C++ Lernen\PipeNetwork\PipeNetwork\library\inc\Tube.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Z:\C++ Lernen\PipeNetwork\PipeNetwork\library\inc\linalg.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Z:\C++ Lernen\PipeNetwork\PipeNetwork\library\inc\linalg_impl.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="Z:\C++ Lernen\PipeNetwork\PipeNetwork\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{02B62A37-61DC-37D2-A743-2715832015D0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4406CBE9-5492-3A4E-B3C9-73F2B6F859F8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
